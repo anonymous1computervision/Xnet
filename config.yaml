@@ -1,0 +1,7 @@
+train:
+  num_epochs: 2600000
+  batch_size: 64
+  logdir: 'log/'
+  init_lr: 0.01
+  lr_decay: 0.75
+  print_epoch: 100
